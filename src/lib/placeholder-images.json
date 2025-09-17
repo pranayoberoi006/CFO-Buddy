@@ -1,0 +1,41 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "A modern and professional office setting, subtly blurred, to be used as a background.",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1932&auto=format&fit=crop",
+      "imageHint": "office business"
+    },
+    {
+      "id": "chatbot-icon",
+      "description": "A friendly robot head icon for the floating chatbot.",
+      "imageUrl": "https://www.shutterstock.com/image-vector/chat-bot-icon-virtual-smart-600nw-2478937553.jpg",
+      "imageHint": "robot mascot"
+    },
+    {
+      "id": "team-member-1",
+      "description": "Professional headshot of Pranay Oberoi, Technical Engineer.",
+      "imageUrl": "/images/pranay.jpg",
+      "imageHint": "man professional"
+    },
+    {
+      "id": "team-member-2",
+      "description": "Professional headshot of Raghav Sharma, Front-end Developer.",
+      "imageUrl": "/images/raghav.jpg",
+      "imageHint": "man professional"
+    },
+    {
+      "id": "team-member-3",
+      "description": "Professional headshot of Parth Doomra, Back-end Developer.",
+      "imageUrl": "/images/parth.jpg",
+      "imageHint": "woman glasses"
+    },
+    {
+      "id": "team-member-4",
+      "description": "Professional headshot of Radhil Narula, AI Specialist.",
+      "imageUrl": "/images/radhil.jpg",
+      "imageHint": "man speaking"
+    }
+  ]
+}
